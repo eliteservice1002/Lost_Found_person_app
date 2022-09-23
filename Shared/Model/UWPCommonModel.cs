@@ -107,6 +107,7 @@ namespace Shared.Model
         public string UserId { get; set; }
         public string UserName { get; set; }
         public string PoliceStation { get; set; }
+        public string AdminRoleId { get; set; }
 
 
 

@@ -8,8 +8,8 @@
 
   <Identity
     Name="e3221861-be6d-45f5-8bba-a17b320d6492"
-    Publisher="CN=AdminApp"
-    Version="1.0.5.0" />
+    Publisher="CN=root"
+    Version="1.0.7.0" />
 
   <mp:PhoneIdentity PhoneProductId="e3221861-be6d-45f5-8bba-a17b320d6492" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

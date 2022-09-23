@@ -47,7 +47,8 @@ namespace Repository
                     Token = _jwt.GetToken(user.Id),
                     UserId = user.Id.Encode(),
                     UserName = user.UserName,
-                    PoliceStation = user.PoliceStation + ", " + user.DistrictCorporation
+                    PoliceStation = user.PoliceStation + ", " + user.DistrictCorporation,
+                    AdminRoleId = _db.AppRoles.AsEnumerable().Where(x => x.Name == RolesList.Admin.ToString()).Select(y => y.Id).FirstOrDefault()
                 }).Serialize();
             }
             else

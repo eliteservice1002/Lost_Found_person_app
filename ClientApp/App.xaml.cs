@@ -48,7 +48,7 @@ namespace ClientApp
         {
             ResponseBody response = new ResponseBody();
             Frame rootFrame = Window.Current.Content as Frame;
-            ApplicationView.PreferredLaunchWindowingMode = ApplicationViewWindowingMode.FullScreen;
+            //ApplicationView.PreferredLaunchWindowingMode = ApplicationViewWindowingMode.FullScreen;
             
             try
             {

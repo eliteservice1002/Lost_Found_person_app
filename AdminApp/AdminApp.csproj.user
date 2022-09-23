@@ -4,7 +4,7 @@
     <ProjectView>ShowAllFiles</ProjectView>
     <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
     <AppxShowAllApps>False</AppxShowAllApps>
-    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <AppxBuildConfigurationSelection>x86</AppxBuildConfigurationSelection>
     <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
     <Source>E:\Image-recognation\AdminApp\Assets\logo.png</Source>
     <SmallTileSource>E:\Image-recognation\AdminApp\Assets\logo.png</SmallTileSource>

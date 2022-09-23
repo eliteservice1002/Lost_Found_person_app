@@ -20,9 +20,8 @@ namespace Shared
         public static string AdminName { get; set; }
         public static string PoliceStation { get; set; }
         public static string ItemCode { get; set; }
-        public static bool IsNavbarPopup { get; set; } 
-        //Review: get the Id from db
-        public static string AdminRoleId { get { return "b5bcbf9d-906c-4417-9953-d81c9c8caf88"; } }
+        public static bool IsNavbarPopup { get; set; }
+        public static string AdminRoleId { get; set; }
         //public static string ApiUrl { get { return "https://localhost:7238/api/1.0/"; } }
 
     }

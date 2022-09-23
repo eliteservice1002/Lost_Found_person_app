@@ -121,9 +121,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BaseViewModel.cs" />
-    <Compile Include="DelegateCommand.cs" />
+    <Compile Include="Event\DelegateCommand.cs" />
     <Compile Include="Enum.cs" />
-    <Compile Include="EventCommand.cs" />
+    <Compile Include="Event\EventCommand.cs" />
     <Compile Include="UWPExtension.cs" />
     <Compile Include="Model\UWPCommonModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -141,9 +141,7 @@
       <Version>10.15.1</Version>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Event\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

@@ -126,6 +126,7 @@ namespace AdminApp.ViewModels
                                 login.AccessToken = Userlogin.Token;
                                 login.UserId = Userlogin.UserId;
                                 StaticContext.AdminName = Userlogin.UserName;
+                                StaticContext.AdminRoleId = Userlogin.AdminRoleId;
                                 login.LoginTime = DateTime.Now;
                                 StaticContext.UserId = login.UserId;
                                 RealmDb<LoginModel>.Add(login);

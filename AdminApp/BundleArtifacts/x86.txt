@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Administrator\Downloads\Image-recognation\Image-recognation\AdminApp\bin\x86\Release\AdminApp_1.0.7.0_x86.msix
+SymbolPackage=C:\Users\Administrator\Downloads\Image-recognation\Image-recognation\AdminApp\obj\x86\Release\Symbols\AdminApp_1.0.7.0_x86.appxsym
+ResourcePack=C:\Users\Administrator\Downloads\Image-recognation\Image-recognation\AdminApp\bin\x86\Release\AdminApp_1.0.7.0_scale-100.msix
+ResourcePack=C:\Users\Administrator\Downloads\Image-recognation\Image-recognation\AdminApp\bin\x86\Release\AdminApp_1.0.7.0_scale-125.msix
+ResourcePack=C:\Users\Administrator\Downloads\Image-recognation\Image-recognation\AdminApp\bin\x86\Release\AdminApp_1.0.7.0_scale-150.msix
+ResourcePack=C:\Users\Administrator\Downloads\Image-recognation\Image-recognation\AdminApp\bin\x86\Release\AdminApp_1.0.7.0_scale-400.msix
